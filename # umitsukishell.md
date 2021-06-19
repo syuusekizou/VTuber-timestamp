@@ -517,7 +517,22 @@
 | 愛してはいけない                                | https://www.youtube.com/watch?v=G6MPjaESItU&t=6635s  | 【歌枠】特別な深海Ver.で歌います♪singing【海月シェル/#新人Vtuber】                |
 | 📸スクショタイム                                 | https://www.youtube.com/watch?v=G6MPjaESItU&t=6951s  | 【歌枠】特別な深海Ver.で歌います♪singing【海月シェル/#新人Vtuber】                |
 | 夜明けと蛍                                      | https://www.youtube.com/watch?v=G6MPjaESItU&t=7226s  | 【歌枠】特別な深海Ver.で歌います♪singing【海月シェル/#新人Vtuber】                |
-
+| 君の知らない物語                                | https://www.youtube.com/watch?v=j0WstR7cxVY&t=957s   | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| さくらんぼ                                      | https://www.youtube.com/watch?v=j0WstR7cxVY&t=1673s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| PonPonPon                                       | https://www.youtube.com/watch?v=j0WstR7cxVY&t=2297s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| ドライフラワー                                  | https://www.youtube.com/watch?v=j0WstR7cxVY&t=2803s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| あんなに一緒だったのに                          | https://www.youtube.com/watch?v=j0WstR7cxVY&t=3379s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| 打上花火                                        | https://www.youtube.com/watch?v=j0WstR7cxVY&t=3858s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| for フルーツバスケット                          | https://www.youtube.com/watch?v=j0WstR7cxVY&t=4546s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| CHE.R.RY                                        | https://www.youtube.com/watch?v=j0WstR7cxVY&t=5066s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| Here With Me                                    | https://www.youtube.com/watch?v=j0WstR7cxVY&t=5522s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| 津軽海峽・冬景色                                | https://www.youtube.com/watch?v=j0WstR7cxVY&t=5924s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| ゆずれない願い                                  | https://www.youtube.com/watch?v=j0WstR7cxVY&t=6327s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| KING                                            | https://www.youtube.com/watch?v=j0WstR7cxVY&t=6805s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| Just Communication                              | https://www.youtube.com/watch?v=j0WstR7cxVY&t=7142s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| 空色デイズ                                      | https://www.youtube.com/watch?v=j0WstR7cxVY&t=7651s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| うっせぇわ                                      | https://www.youtube.com/watch?v=j0WstR7cxVY&t=7920s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
+| お願いマッスル                                  | https://www.youtube.com/watch?v=j0WstR7cxVY&t=8170s  | 【歌枠】深夜に癒しの歌声～♪singing【海月シェル/#新人Vtuber】                      |
 
 
 
