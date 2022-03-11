@@ -103,5 +103,13 @@ const singableList = [
   ['インドア系ならトラックメーカー', 'https://www.youtube.com/watch?v=eHqXJYP_IQY&t=3159s', '2021/10/17 ', '【#よるまき】初！オフコラボ歌枠！！【Vtuber/巻之マキ・夜凪ノア】'],
   ['Alice in 冷凍庫', 'https://www.youtube.com/watch?v=eHqXJYP_IQY&t=3498s', '2021/10/17 ', '【#よるまき】初！オフコラボ歌枠！！【Vtuber/巻之マキ・夜凪ノア】'],
   ['チューリングラブ', 'https://www.youtube.com/watch?v=eHqXJYP_IQY&t=3998s', '2021/10/17 ', '【#よるまき】初！オフコラボ歌枠！！【Vtuber/巻之マキ・夜凪ノア】'],
+  ['シャルル', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=0394s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
+  ['ノーダウト', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=0859s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
+  ['Stand By You', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=1231s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
+  ['ないものねだり', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=1687s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
+  ['丸の内サディスティック', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=2244s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
+  ['サウダージ', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=2741s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
+  ['若者のすべて', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=2630s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
+  ['春よ、来い', 'https://www.youtube.com/watch?v=Xm39RpH7IW4&t=3989s', '2022/02/27', '【歌枠】２月がもう終わるだなんて噓だ…！！【巻之マキ/Vtuber】'],
   ['祝う', 'https://www.youtube.com/watch?v=qPqN35yNzj4&t=0000s', '2021/06/06', '【My Birthday】祝う【巻之マキ/Vtuber】'],
 ];
