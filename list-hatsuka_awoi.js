@@ -7,4 +7,13 @@ const singableList = [
   ['少女レイ', 'https://youtu.be/Ls4Shu4H_Tc&t=0238s', '2022/09/24', '【#歌枠】君と夏の終わり夢の始まり新人V歌リレー【 新人Vtuber / 薄荷あをい 】- singing stream -'],
   ['新時代', 'https://youtu.be/Ls4Shu4H_Tc&t=0616s', '2022/09/24', '【#歌枠】君と夏の終わり夢の始まり新人V歌リレー【 新人Vtuber / 薄荷あをい 】- singing stream -'],
   ['花に亡霊', 'https://youtu.be/Ls4Shu4H_Tc&t=0927s', '2022/09/24', '【#歌枠】君と夏の終わり夢の始まり新人V歌リレー【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['パレード', 'https://youtu.be/iwEsOPK5ldQ&t=0355s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['水平線', 'https://youtu.be/iwEsOPK5ldQ&t=0937s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['虹', 'https://youtu.be/iwEsOPK5ldQ&t=1367s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['変わらないもの', 'https://youtu.be/iwEsOPK5ldQ&t=1819s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['そっけない', 'https://youtu.be/iwEsOPK5ldQ&t=2417s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['Zzz', 'https://youtu.be/iwEsOPK5ldQ&t=2990s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['明日への手紙', 'https://youtu.be/iwEsOPK5ldQ&t=3808s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['葛飾ラプソディー', 'https://youtu.be/iwEsOPK5ldQ&t=4410s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['よるのあと', 'https://youtu.be/iwEsOPK5ldQ&t=5109s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
 ];
