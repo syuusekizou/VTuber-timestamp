@@ -16,4 +16,9 @@ const singableList = [
   ['明日への手紙', 'https://youtu.be/iwEsOPK5ldQ&t=3808s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
   ['葛飾ラプソディー', 'https://youtu.be/iwEsOPK5ldQ&t=4410s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
   ['よるのあと', 'https://youtu.be/iwEsOPK5ldQ&t=5109s', '2022/09/25', '【#歌枠/睡眠導入】眠れるお歌【 新人Vtuber / 薄荷あをい 】- singing stream -'],
+  ['あなたの夜が明けるまで', 'https://youtu.be/ztw9t92dMg4', '2022/08/20', '【新人Vtuber】あなたの夜が明けるまで (cover) / 薄荷あをい'],
+  ['回る空うさぎ', 'https://youtu.be/uRXEGSDgjqk', '2022/09/10', '【新人Vtuber】回る空うさぎ (cover) / 薄荷あをい'],
+  ['CH4NGE', 'https://youtu.be/PiseUPQvfoo', '2022/08/25', '【#新人Vtuber が歌ってみた】CH4NGE (cover) / 薄荷あをい'],
+  ['きゅうくらりん', 'https://youtu.be/8KfdaWj0Ucs', '2022/09/03', '【#新人Vtuber が歌ってみた】きゅうくらりん (cover) / 薄荷あをい'],
+  ['フォニイ', 'https://youtu.be/7h0iNJxHWzE', '2022/09/27', '【#新人Vtuber が歌ってみた】フォニイ (cover) / 薄荷あをい'],
 ];
