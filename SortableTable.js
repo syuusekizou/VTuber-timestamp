@@ -28,10 +28,10 @@ let items = [];
 let index = 1;
 singableList.forEach(x => items.push({
     id: index++,
-    songTitles: x[0],
-    URL:x[1],
-    date:x[2],
-    title:x[3]
+    songTitle: x[0],
+    URL: x[1],
+    date: x[2],
+    title: x[3]
 }));
 sortObj.setData(items);
 
